@@ -1,0 +1,6 @@
+io/github/bonigarcia/AppiumTest.java
+ io.github.bonigarcia.AppiumTest
+io/github/bonigarcia/RemoteWebDriverTest.java
+ io.github.bonigarcia.RemoteWebDriverTest
+io/github/bonigarcia/LocalWebDriverTest.java
+ io.github.bonigarcia.LocalWebDriverTest
